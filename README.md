@@ -113,6 +113,8 @@ Sample Response:
   ],
   "answer": "Top places to visit in Pune..."
 }
+```
+
 🧩 MCP Tools
 1. Get Top Places
 /get_top_places?city=Pune
